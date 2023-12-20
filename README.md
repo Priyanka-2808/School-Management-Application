@@ -9,7 +9,6 @@ The School Management Application is a web-based application designed to manage 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
 
 ## Features
 
