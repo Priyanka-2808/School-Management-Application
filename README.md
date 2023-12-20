@@ -10,15 +10,12 @@ The School Management Application is a web-based application designed to manage 
   - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
 - User authentication with API key and token
 - Sign up and log in functionality
 - Create schools with name and photo
-- ...
 
 ## Getting Started
 
@@ -44,16 +41,7 @@ The School Management Application is a web-based application designed to manage 
     ```bash
     npm install
 
-4. Configure environment variables:
-    Create a .env file in the root of the project and set the following variables:
-    ```env
-    MONGODB_URI=your_mongodb_connection_string
-    API_KEY_SECRET=your_api_key_secret
-    JWT_SECRET=your_jwt_secret
-
-Replace the placeholders with your MongoDB connection string, API key secret, and JWT secret.
-
-5. Run the application:
+4. Run the application:
     ```bash
     npm start
 
