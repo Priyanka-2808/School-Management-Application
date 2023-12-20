@@ -41,23 +41,21 @@ The School Management Application is a web-based application designed to manage 
     cd school-management-application
 
 3. Install dependencies:
-```bash
-npm install
+    ```bash
+    npm install
 
 4. Configure environment variables:
-Create a .env file in the root of the project and set the following variables:
-
-```env
-MONGODB_URI=your_mongodb_connection_string
-API_KEY_SECRET=your_api_key_secret
-JWT_SECRET=your_jwt_secret
+    Create a .env file in the root of the project and set the following variables:
+    ```env
+    MONGODB_URI=your_mongodb_connection_string
+    API_KEY_SECRET=your_api_key_secret
+    JWT_SECRET=your_jwt_secret
 
 Replace the placeholders with your MongoDB connection string, API key secret, and JWT secret.
 
 5. Run the application:
-
-```bash
-npm start
+    ```bash
+    npm start
 
 The application should be running at http://localhost:3000.
 
