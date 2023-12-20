@@ -37,8 +37,8 @@ The School Management Application is a web-based application designed to manage 
 
 2. Change into the project directory:
 
-```bash
-cd school-management-application
+    ```bash
+    cd school-management-application
 
 3. Install dependencies:
 ```bash
